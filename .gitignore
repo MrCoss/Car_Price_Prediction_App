@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Model files
+*.pkl
+*.joblib
+
+# Dataset files
+*.csv
+
+# Streamlit logs
+.streamlit/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
