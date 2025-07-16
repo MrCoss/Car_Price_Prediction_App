@@ -3,6 +3,7 @@
 A Streamlit-based web app that predicts the price of a car using machine learning models like **Linear Regression** and **XGBoost**. Built to showcase how simple ML tools can solve real-world problems.
 
 ---
+<img width="1920" height="2171" alt="chrome-capture-2025-6-17" src="https://github.com/user-attachments/assets/411e91b5-5315-404b-954f-53ad8d88af60" />
 
 ## 🔍 Features
 
